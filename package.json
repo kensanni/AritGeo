@@ -14,5 +14,9 @@
     "javascript"
   ],
   "author": "sanni kehinde",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.0",
+    "mocha": "^3.4.2"
+  }
 }
