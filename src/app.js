@@ -20,7 +20,7 @@ export default {
                 return 0;
             }
         }else{
-            return ('Argument should be an Array');
+            return ('Arguments should be an Array');
         }
     }
 };

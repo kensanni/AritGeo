@@ -7,7 +7,7 @@
     "test": "tests"
   },
   "scripts": {
-    "test": "mocha test/test.js"
+    "test": "mocha  --compilers js:babel-core/register --reporter spec --timeout 5000"
   },
   "keywords": [
     "TDD",

@@ -1,6 +1,6 @@
 "use strict";
 import Chai from 'chai';
-import app from 'src/app.js';
+import app from '../src/app.js';
 
 const chai = Chai.expect;
 const message = 'Arguments should be an Array'
