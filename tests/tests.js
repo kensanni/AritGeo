@@ -3,7 +3,7 @@ import Chai from 'chai';
 import app from 'src/app.js';
 
 const chai = Chai.expect;
-const message = 'Argument should be an Array'
+const message = 'Arguments should be an Array'
 
 
 describe("Determine the sequence of an array of numbers: ", () => {
