@@ -13,10 +13,18 @@
     "TDD",
     "javascript"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kensanni/aritGeo.git"
+  },
   "author": "sanni kehinde",
   "license": "ISC",
   "dependencies": {
     "chai": "^4.1.0",
     "mocha": "^3.4.2"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-es2015": "^6.24.1"
   }
 }
